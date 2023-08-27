@@ -1,0 +1,5 @@
+# This file may vary, depending on branches.
+# .gitignore is never ignored.
+
+!.gitignore
+!*.min.js
